@@ -3,6 +3,10 @@ source "http://rubygems.org"
 
 gem 'beanstalk-client'
 gem 'zmq'
+gem 'eventmachine'
+gem 'ffi'
+gem 'em-zeromq'
+gem 'json'
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
